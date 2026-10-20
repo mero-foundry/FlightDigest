@@ -100,3 +100,7 @@ Deferred on purpose:
 - User accounts and persisted workspaces.
 - Scheduled email delivery backend.
 - Multi-tenant storage, auth, billing state, and audit logs.
+
+## License
+
+FlightDigest is licensed under the [MIT License](LICENSE).
